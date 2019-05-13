@@ -1,0 +1,7 @@
+{
+  "name": "simple-ion",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
